@@ -1,0 +1,9 @@
+Hola profes! bueno el sitio web esta basado en China, tanto por su historia, su gobierno, la actualidad de este pais,la flora y fauna,su gente y mas.
+Hice una barra de Navegación, para que vean todas las paginas webs que hice.
+Tiene todo lo que se pide, el footer se encuentra en una sola pagina debido a que el resto no fue necesario ya que no poseen pie de pagina.
+Espero les guste.
+En la primer parte(Inicio) se ve a una mujer china llamada Mulan, guiandoles sobre el contenido del sitio web.
+En la parte Actualidad, se ve todo lo relacionado con la China actual
+En la parte del Partido comunista se ve como Este partido cambio a china y la transformo en lo que es hoy en dia junto a sus logros.
+En la parte de Fauna y flora se ve los animales y plantas mas importantes de China.
+Y la poblacion se ve todo lo relacionado a la gente china.

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset ="UTF-8">
+<title>China</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+<link rel="stylesheet"  href ="final.css" type ="text/css"/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<img  id="womanchinese1" src ="https://i.pinimg.com/originals/ca/4b/c5/ca4bc599d3f87cd2f9936cdfd588b889.png" alt="" width="470px" height="810px">
+
+<ul id="uno">
+<li><a href="index.html">Inicio</a></li>
+<li><a href="actualidad.html" >Actualidad</a></li>
+<li><a href="PartidoComunista.html">Partido Comunista</a></li>
+<li><a href="florayfauna.html">Fauna y Flora</a></li>
+<li><a href="poblacion.html">Poblacion</a></li>
+
+</ul>
+<div id="text">
+</div>
+
+
+<script type ="text/javascript">
+var i,text;
+i=0;
+text="Hola curiosx, mi nombre es Mulán, y seré tu guía en esta sección, encontrarás en este sitio web, toda la información que te imagines relacionada con China, su cultura, su historia, el partido comunista,ciencia y tecnología, población,paisajes,animales... en fin de todo sobre este hermoso país,Un gusto y aquí empieza tu aventura por China";
+function typing(){
+if(i<text.length){
+document.getElementById("text").innerHTML +=text.charAt(i);
+i++;
+setTimeout(typing,55);
+
+}
+
+}
+typing();
+</script>
+
+
+
+
+</body>
+
+</html>

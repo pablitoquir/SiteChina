@@ -1,0 +1,62 @@
+body{
+
+	background-image: url("https://thumbs.dreamstime.com/b/yellow-chinese-little-fan-abstract-background-red-border-chinese-new-year-background-red-border-abstract-oriental-103128640.jpg");
+	background-repeat:no-repeat;
+background-size:cover;
+ background-attachment:fixed;
+
+}
+ul{
+list-style-type:none;
+margin:0;
+padding:0;
+font-size:30px;
+position:fixed;
+top:0;
+width:100%;
+background-image:url("fondorojo.jpg");
+left:0;
+position:absolute;
+	background-repeat:no-repeat;
+background-size:cover;
+color:yellow
+;}
+
+.lista{
+	float:left;
+}
+
+.lista a{
+	display:block;
+	color:yellow;
+	text-align:center;
+padding:14px;
+text-decoration:none;
+cursor:pointer;
+
+
+}
+.lista:hover{
+	background-color:rgba(0,0,0,0.3);
+}
+#demografia{
+	font-size:60px;
+position:absolute;left:400px;
+position:absolute;top:125px;
+text-shadow: 3px 3px 3px ;
+color:red;
+font-family:Copperplate Gothic;
+
+}	
+.container {
+	
+		font-size:150%;
+position:relative;top: 260px;
+}
+.poblacion{
+	font-size:27px;
+color:000000;
+	font-family:roboto;
+	text-shadow: 1px 1px 1px ;
+	
+}
